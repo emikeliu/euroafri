@@ -1,5 +1,4 @@
-(function()
-{
+
 var cardFactory = new CardFactory();
 var resource;
 var DOM=new DoM();
@@ -20,9 +19,14 @@ ajax({
         resource = new Resource(JSON.parse(res));
     }
 })
-document.getElementById("ten").addEventListener("click",function ()
+/*document.getElementById("ten").addEventListener("click",function ()
 {
-    document.getElementById("table").innerHTML=DOM.generateList(cardFactory.getNewRandomCard(10),document.getElementById("table").innerHTML,resource,"zh_CN")
+    for(var i =0;i<50;i++)
+        document.getElementById("table").innerHTML=DOM.generateList(cardFactory.getNewRandomCard(10),document.getElementById("table").innerHTML,resource,"zh_CN")   
+    
+});*/
+document.getElementById("tenbeta").addEventListener("click",function ()
+{
+        document.getElementById("table").innerHTML=DOM.generateList(cardFactory.getNewRandomCardBeta(10),document.getElementById("table").innerHTML,resource,"zh_CN")
     
 });
-})()

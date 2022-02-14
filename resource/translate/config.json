@@ -1,12 +1,29 @@
 {
     "zh_CN":{
         "level":"星级",
-    "ZhanQiao":"栈桥",
-    "WuSiGuangChang":"五四广场",
+        "ZhongShanGongYuan":"中山公园",
     "JinShaTan":"金沙滩",
+    "WuSiGuangChang":"五四广场",
     "LaoShan":"崂山",
     "AoFanZhongXin":"奥帆中心",
     "ShuiZhunLingDian":"水准零点",
-    "XiaoQingDao":"小青岛"
+    "XiaoQingDao":"小青岛",
+    "ZhanQiao":"栈桥",
+    "BaiGuoShanSenLinGongYuan":"百果山森林公园",
+    "XinHaoShan":"信号山",
+    "XiaoYuShan":"小鱼山",
+    "PiJiuBoWuGuan":"啤酒博物馆",
+    "YiZhanYiZhiBoWuGuan":"一战遗址博物馆",
+    "ZangMaShan":"藏马山",
+    "BaiGuoShan":"百果山",
+    "TaiPingShan":"太平山",
+    "BaiHuaYuan":"百花苑",
+    "LuXunGongYuan":"鲁迅公园",
+    "DiaoSuYuan":"雕塑园",
+    "GuanXiangShan":"观象山",
+    "ZhongShanLu":"中山路",
+    "QingRenBa":"情人坝",
+    "DiSanHaiShuiYuChang":"第三海水浴场",
+    "ShiLaoRen":"石老人"
     }
 }

@@ -15,144 +15,144 @@
         "name":"LaoShan",
         "face":"C.jpg",
         "level":5,
-        "probability":0.0225
+        "probability":0.02
     },
     {
         "name":"AoFanZhongXin",
         "face":"D.jpg",
         "level":5,
-        "probability":0.0225
+        "probability":0.02
     },
     {
         "name":"ShuiZhunLingDian",
         "face":"E.jpg",
         "level":5,
-        "probability":0.0225
+        "probability":0.02
     },
     {
         "name":"XiaoQingDao",
         "face":"F.jpg",
         "level":5,
-        "probability":0.0225
+        "probability":0.02
     },
     {
         "name":"ZhanQiao",
         "face":"G.jpg",
         "level":4,
-        "probability":0.0363
+        "probability":0.0454545454545455
     },
     {
         "name":"BaiGuoShanSenLinGongYuan",
         "face":"H.jpg",
         "level":4,
-        "probability":0.0363
+        "probability":0.0454545454545455
     },
     {
         "name":"XinHaoShan",
         "face":"I.jpg",
         "level":4,
-        "probability":0.0225
+        "probability":0.0454545454545455
     },
     {
         "name":"XiaoYuShan",
         "face":"J.jpg",
         "level":4,
-        "probability":0.0225
+        "probability":0.0454545454545455
     },
     {
         "name":"PiJiuBoWuGuan",
         "face":"K.jpg",
         "level":4,
-        "probability":0.0225
+        "probability":0.0454545454545455
     },
     {
         "name":"YiZhanYiZhiBoWuGuan",
         "face":"L.jpg",
         "level":4,
-        "probability":0.0225
+        "probability":0.0454545454545455
     },
     {
         "name":"ZangMaShan",
         "face":"M.jpg",
         "level":4,
-        "probability":0.0225
+        "probability":0.0454545454545455
     },
     {
         "name":"BaiGuoShan",
         "face":"N.jpg",
         "level":4,
-        "probability":0.0225
+        "probability":0.0454545454545455
     },
     {
         "name":"TaiPingShan",
         "face":"O.jpg",
         "level":4,
-        "probability":0.0225
+        "probability":0.0454545454545455
     },
     {
         "name":"ZhongShanGongYuan",
         "face":"P.jpg",
         "level":4,
-        "probability":0.0225
+        "probability":0.0454545454545455
     },
     {
         "name":"BaiHuaYuan",
         "face":"Q.jpg",
         "level":4,
-        "probability":0.0225
+        "probability":0.0454545454545455
     },
     {
         "name":"LuXunGongYuan",
         "face":"R.jpg",
         "level":3,
-        "probability":0.01
+        "probability":0.044444444444444
     },
     {
         "name":"DiaoSuYuan",
         "face":"S.jpg",
         "level":3,
-        "probability":0.01
+        "probability":0.044444444444444
     },
     {
         "name":"GuanXiangShan",
         "face":"T.jpg",
         "level":3,
-        "probability":0.01
+        "probability":0.044444444444444
     },
     {
         "name":"XiaoQingDao",
         "face":"U.jpg",
         "level":3,
-        "probability":0.01
+        "probability":0.044444444444444
     },
     {
         "name":"ZhongShanLu",
         "face":"V.jpg",
         "level":3,
-        "probability":0.01
+        "probability":0.044444444444444
     },
     {
         "name":"QingRenBa",
         "face":"W.jpg",
         "level":3,
-        "probability":0.01
+        "probability":0.044444444444444
     },
     {
         "name":"DiSanHaiShuiYuChang",
         "face":"X.jpg",
         "level":3,
-        "probability":0.01
+        "probability":0.044444444444444
     },
     {
         "name":"XiaoQingDao",
         "face":"Y.jpg",
         "level":3,
-        "probability":0.01
+        "probability":0.044444444444444
     },
     {
         "name":"ShiLaoRen",
         "face":"Z.jpg",
         "level":3,
-        "probability":0.01
+        "probability":0.044444444444444
     }
 ]
