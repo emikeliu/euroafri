@@ -39,12 +39,12 @@ function CardFactory(configure)
         var cardList=[];
         for(var i=0;i<count;i++)
         {
-            cardList.push(this.cardPool.pop());
+            cardList.push(this.cardPool.shift());
         }
         cardList.sort(function(){return Math.floor(Math.random()+0.5)});
         for(var i in cardList)
         {
-            this.cardPool.push(cardList[i]);
+            this.cardPool.push();
         }
         return cardList;
     }
